@@ -1,0 +1,26 @@
+{
+  "name": "mepn-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ratanhiwale/mepn-stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ratanhiwale/mepn-stack/issues"
+  },
+  "homepage": "https://github.com/Ratanhiwale/mepn-stack#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.1",
+    "pug": "^2.0.3",
+    "touch": "^3.1.0"
+  }
+}
